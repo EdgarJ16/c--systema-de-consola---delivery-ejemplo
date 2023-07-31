@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618790202 source:d:\uned\iv cuatrimestre\intro a la programación\proyecto\proyecto_edgarjacob_117660514_def\proyecto edgarjacob_117660514\main.cpp
+	<iomanip>
+	<fstream>
+	<iostream>
+	<locale.h>
+	<stdlib.h>
+	<ctime>
+
